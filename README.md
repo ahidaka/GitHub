@@ -30,8 +30,8 @@ git clone something.git
 これをやっておかないと、後々面倒なことになる。
 
 ```sh
-git config --local user.name ahidaka
-git config --local user.email hidaka@devdrv.co.jp
+git config --local user.name your-GitHub-User-Name
+git config --local user.email your@email.address.for.github
 git config --local --list
 ```
 
